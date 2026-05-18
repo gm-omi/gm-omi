@@ -50,6 +50,12 @@ me.say_hi()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎨 Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### 🌐 Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -128,6 +134,37 @@ me.say_hi()
 </div>
 
 ---
+
+## 🎮 Gaming Zone
+
+<div align="center">
+
+> *"When I'm not coding, I'm probably doing this..."* 🕹️
+
+| 🏆 Game | 🎯 Genre | ⚡ Level |
+|---|---|---|
+| ⚽ EA FC | Football / Sports | Competitive |
+| ⚔️ Clash of Clans | Strategy | Veteran Raider |
+| 🥅 eFootball | Football / Sports | On the grind |
+| 📖 Story Games | RPG / Adventure | Lore Hunter |
+
+### 🕹️ My Gaming Style
+![EA FC](https://img.shields.io/badge/EA_FC-000000?style=for-the-badge&logo=ea&logoColor=white)
+![Clash of Clans](https://img.shields.io/badge/Clash_of_Clans-1D4E89?style=for-the-badge&logo=supercell&logoColor=gold)
+![eFootball](https://img.shields.io/badge/eFootball-003087?style=for-the-badge&logo=konami&logoColor=white)
+![Story Games](https://img.shields.io/badge/Story_Games-8B0000?style=for-the-badge&logo=steam&logoColor=white)
+
+```python
+my_gaming_personality = {
+    "football_games": ["EA FC", "eFootball"],
+    "strategy":       ["Clash of Clans"],
+    "favourites":     ["Story-driven RPGs & Adventures"],
+    "playstyle":      "Win or learn, never rage quit... okay maybe a little 😅",
+    "status":         "Currently: Touching grass (sometimes) 🌱"
+}
+```
+
+</div>
 
 ## 🤝 Connect With Me
 
