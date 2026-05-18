@@ -109,7 +109,7 @@ me.say_hi()
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gm-omi&repo=gm-omi&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/gm-omi)
 
-> 💡 *More projects coming soon — I'm always building something!*
+> 💡 *Projects coming soon *
 
 </div>
 
@@ -171,6 +171,16 @@ my_gaming_personality = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-gm--omi-181717?style=for-the-badge&logo=github)](https://github.com/gm-omi)
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-gm--omi-181717?style=for-the-badge&logo=github)](https://github.com/gm-omi)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Golam Mohammed Omi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gm_omi)
+
+</div>
 
 </div>
 
